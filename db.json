@@ -1,0 +1,84 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "name": "Build Your Own Website",
+      "description": "A comprehensive guide to building websites from scratch",
+      "price": 25,
+      "by": "John Doe",
+      "rating": 4.5
+    },
+    {
+      "id": "2",
+      "name": "Mastering Python",
+      "description": "Unlock the full potential of Python programming language",
+      "price": 40,
+      "by": "Jane Smith",
+      "rating": 4.8
+    },
+    {
+      "id": "3",
+      "name": "Introduction to Machine Learning",
+      "description": "Get started with machine learning concepts and algorithms",
+      "price": 50,
+      "by": "Michael Johnson",
+      "rating": 4.7
+    },
+    {
+      "id": "4",
+      "name": "Artificial Intelligence for Beginners",
+      "description": "Understand the basics of AI and its applications",
+      "price": 35,
+      "by": "Emily Brown",
+      "rating": 4.2
+    },
+    {
+      "id": "5",
+      "name": "Data Science Essentials",
+      "description": "Learn essential tools and techniques for data analysis",
+      "price": 45,
+      "by": "Alex Thompson",
+      "rating": 4.6
+    },
+    {
+      "id": "6",
+      "name": "Advanced JavaScript Concepts",
+      "description": "Dive deeper into JavaScript with advanced topics and techniques",
+      "price": 55,
+      "by": "Sarah Johnson",
+      "rating": 4.9
+    },
+    {
+      "id": "7",
+      "name": "iOS App Development",
+      "description": "Create stunning iOS apps from scratch using Swift programming language",
+      "price": 60,
+      "by": "David Lee",
+      "rating": 4.7
+    },
+    {
+      "id": "8",
+      "name": "Game Development Fundamentals",
+      "description": "Master the basics of game development with Unity and C#",
+      "price": 50,
+      "by": "Mark Williams",
+      "rating": 4.6
+    },
+    {
+      "id": "9",
+      "name": "Responsive Web Design",
+      "description": "Design websites that work seamlessly across all devices and screen sizes",
+      "price": 40,
+      "by": "Jessica Garcia",
+      "rating": 4.8
+    },
+    {
+      "id": "10",
+      "name": "Cybersecurity Essentials",
+      "description": "Learn fundamental concepts and practices to secure digital systems",
+      "price": 65,
+      "by": "Daniel Smith",
+      "rating": 4.5
+    }
+  ]
+}
