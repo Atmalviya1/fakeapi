@@ -13,33 +13,7 @@
       "schedule": "Every Monday and Wednesday, 6:00 PM - 8:00 PM",
       "location": "Online",
       "prerequisites": "Basic understanding of HTML and CSS",
-      "syllabus": [
-        {
-          "week": 1,
-          "topic": "HTML Basics",
-          "content": "Learn the basics of HTML"
-        },
-        {
-          "week": 2,
-          "topic": "CSS Fundamentals",
-          "content": "Understand CSS fundamentals"
-        },
-        {
-          "week": 3,
-          "topic": "Responsive Design",
-          "content": "Explore responsive design techniques"
-        },
-        {
-          "week": 4,
-          "topic": "JavaScript Integration",
-          "content": "Integrate JavaScript into your website"
-        },
-        {
-          "week": 5,
-          "topic": "Deployment Strategies",
-          "content": "Learn about deployment strategies for websites"
-        }
-      ]
+      "syllabus": ["HTML Basics", "CSS Fundamentals", "Responsive Design", "JavaScript Integration", "Deployment Strategies"]
     },
     {
       "id": "2",
@@ -54,53 +28,7 @@
       "schedule": "Every Tuesday and Thursday, 7:00 PM - 9:00 PM",
       "location": "Online",
       "prerequisites": "Basic programming knowledge",
-      "syllabus": [
-        {
-          "week": 1,
-          "topic": "Python Basics",
-          "content": "Cover the basics of Python programming language"
-        },
-        {
-          "week": 2,
-          "topic": "Control Flow",
-          "content": "Learn about control flow statements in Python"
-        },
-        {
-          "week": 3,
-          "topic": "Functions",
-          "content": "Understand functions and their usage"
-        },
-        {
-          "week": 4,
-          "topic": "Data Structures",
-          "content": "Explore various data structures in Python"
-        },
-        {
-          "week": 5,
-          "topic": "File Handling",
-          "content": "Learn how to handle files in Python"
-        },
-        {
-          "week": 6,
-          "topic": "Modules and Packages",
-          "content": "Understand modules and packages in Python"
-        },
-        {
-          "week": 7,
-          "topic": "Object-Oriented Programming",
-          "content": "Introduction to Object-Oriented Programming (OOP) in Python"
-        },
-        {
-          "week": 8,
-          "topic": "Error Handling",
-          "content": "Learn about error handling techniques in Python"
-        },
-        {
-          "week": 9,
-          "topic": "Advanced Topics",
-          "content": "Explore advanced topics in Python programming"
-        }
-      ]
+      "syllabus": ["Python Basics", "Control Flow", "Functions", "Data Structures", "File Handling", "Modules and Packages", "Object-Oriented Programming", "Error Handling", "Advanced Topics"]
     },
     {
       "id": "3",
@@ -119,32 +47,32 @@
         {
           "week": 1,
           "topic": "Introduction to Machine Learning",
-          "content": "Explore the basics of machine learning"
+          "content": "Overview of machine learning concepts"
         },
         {
           "week": 2,
           "topic": "Supervised Learning",
-          "content": "Understand supervised learning algorithms"
+          "content": "Introduction to supervised learning algorithms"
         },
         {
           "week": 3,
           "topic": "Unsupervised Learning",
-          "content": "Learn about unsupervised learning techniques"
+          "content": "Introduction to unsupervised learning algorithms"
         },
         {
           "week": 4,
           "topic": "Model Evaluation",
-          "content": "Explore methods for evaluating machine learning models"
+          "content": "Learn how to evaluate machine learning models"
         },
         {
           "week": 5,
           "topic": "Feature Engineering",
-          "content": "Learn techniques for feature engineering in machine learning"
+          "content": "Understanding feature engineering techniques"
         },
         {
           "week": 6,
           "topic": "Model Deployment",
-          "content": "Understand deployment strategies for machine learning models"
+          "content": "Deploying machine learning models"
         }
       ]
     },
@@ -165,65 +93,25 @@
         {
           "week": 1,
           "topic": "Introduction to AI",
-          "content": "Explore the fundamentals of artificial intelligence"
+          "content": "Overview of artificial intelligence"
         },
         {
           "week": 2,
           "topic": "Machine Learning Algorithms",
-          "content": "Understand popular machine learning algorithms"
+          "content": "Basic machine learning algorithms"
         },
         {
           "week": 3,
           "topic": "Natural Language Processing",
-          "content": "Learn about processing natural language with AI"
+          "content": "Introduction to natural language processing techniques"
         },
         {
           "week": 4,
           "topic": "Computer Vision",
-          "content": "Explore computer vision techniques"
-        }
-      ]
-    },
-    {
-      "id": "5",
-      "name": "Data Science Essentials",
-      "description": "Learn essential tools and techniques for data analysis",
-      "price": "$45",
-      "by": "Alex Thompson",
-      "rating": 4.6,
-      "category": "Data Science",
-      "enrollment_status": "Open",
-      "course_duration": "10 weeks",
-      "schedule": "Every Tuesday and Thursday, 6:00 PM - 8:00 PM",
-      "location": "Online",
-      "prerequisites": "Basic knowledge of Python and statistics",
-      "syllabus": [
-        {
-          "week": 1,
-          "topic": "Introduction to Data Science",
-          "content": "Get introduced to the field of data science"
-        },
-        {
-          "week": 2,
-          "topic": "Data Wrangling",
-          "content": "Learn techniques for data wrangling"
-        },
-        {
-          "week": 3,
-          "topic": "Data Visualization",
-          "content": "Explore data visualization methods"
-        },
-        {
-          "week": 4,
-          "topic": "Machine Learning Basics",
-          "content": "Understand the basics of machine learning"
-        },
-        {
-          "week": 5,
-          "topic": "Model Evaluation",
-          "content": "Learn methods for evaluating machine learning models"
+          "content": "Introduction to computer vision and its applications"
         }
       ]
     }
+    
   ]
 }
