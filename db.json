@@ -79,6 +79,86 @@
       "price": 65,
       "by": "Daniel Smith",
       "rating": 4.5
+    },
+    {
+      "id": "11",
+      "name": "Blockchain Fundamentals",
+      "description": "Explore the basics of blockchain technology and its applications",
+      "price": 55,
+      "by": "Laura Martinez",
+      "rating": 4.3
+    },
+    {
+      "id": "12",
+      "name": "Ethical Hacking",
+      "description": "Learn ethical hacking techniques to secure digital assets",
+      "price": 70,
+      "by": "Kevin Johnson",
+      "rating": 4.9
+    },
+    {
+      "id": "13",
+      "name": "Cloud Computing Essentials",
+      "description": "Understand the fundamentals of cloud computing and its services",
+      "price": 60,
+      "by": "Emma Wilson",
+      "rating": 4.6
+    },
+    {
+      "id": "14",
+      "name": "Mobile App Design",
+      "description": "Design intuitive and visually appealing mobile apps",
+      "price": 45,
+      "by": "Ryan Cooper",
+      "rating": 4.7
+    },
+    {
+      "id": "15",
+      "name": "Virtual Reality Development",
+      "description": "Create immersive virtual reality experiences using Unity",
+      "price": 75,
+      "by": "Oliver Thompson",
+      "rating": 4.8
+    },
+    {
+      "id": "16",
+      "name": "Quantum Computing Basics",
+      "description": "Introduction to quantum computing principles and algorithms",
+      "price": 80,
+      "by": "Sophia Anderson",
+      "rating": 4.9
+    },
+    {
+      "id": "17",
+      "name": "IoT Fundamentals",
+      "description": "Explore the Internet of Things (IoT) concepts and applications",
+      "price": 55,
+      "by": "Ethan Brown",
+      "rating": 4.6
+    },
+    {
+      "id": "18",
+      "name": "Natural Language Processing",
+      "description": "Learn techniques for processing and analyzing natural language data",
+      "price": 65,
+      "by": "Ava Johnson",
+      "rating": 4.7
+    },
+    {
+      "id": "19",
+      "name": "UX/UI Design Principles",
+      "description": "Understand user experience (UX) and user interface (UI) design principles",
+      "price": 50,
+      "by": "Noah Wilson",
+      "rating": 4.8
+    },
+    {
+      "id": "20",
+      "name": "Agile Software Development",
+      "description": "Implement agile methodologies for efficient software development",
+      "price": 60,
+      "by": "Mia Garcia",
+      "rating": 4.5
     }
   ]
 }
