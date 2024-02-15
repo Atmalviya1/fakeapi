@@ -119,32 +119,32 @@
         {
           "week": 1,
           "topic": "Introduction to Machine Learning",
-          "content": "Overview of machine learning concepts"
+          "content": "Explore the basics of machine learning"
         },
         {
           "week": 2,
           "topic": "Supervised Learning",
-          "content": "Introduction to supervised learning algorithms"
+          "content": "Understand supervised learning algorithms"
         },
         {
           "week": 3,
           "topic": "Unsupervised Learning",
-          "content": "Introduction to unsupervised learning algorithms"
+          "content": "Learn about unsupervised learning techniques"
         },
         {
           "week": 4,
           "topic": "Model Evaluation",
-          "content": "Learn how to evaluate machine learning models"
+          "content": "Explore methods for evaluating machine learning models"
         },
         {
           "week": 5,
           "topic": "Feature Engineering",
-          "content": "Understanding feature engineering techniques"
+          "content": "Learn techniques for feature engineering in machine learning"
         },
         {
           "week": 6,
           "topic": "Model Deployment",
-          "content": "Deploying machine learning models"
+          "content": "Understand deployment strategies for machine learning models"
         }
       ]
     },
@@ -165,22 +165,268 @@
         {
           "week": 1,
           "topic": "Introduction to AI",
-          "content": "Overview of artificial intelligence"
+          "content": "Explore the fundamentals of artificial intelligence"
         },
         {
           "week": 2,
           "topic": "Machine Learning Algorithms",
-          "content": "Basic machine learning algorithms"
+          "content": "Understand popular machine learning algorithms"
         },
         {
           "week": 3,
           "topic": "Natural Language Processing",
-          "content": "Introduction to natural language processing techniques"
+          "content": "Learn about processing natural language with AI"
         },
         {
           "week": 4,
           "topic": "Computer Vision",
-          "content": "Introduction to computer vision and its applications"
+          "content": "Explore computer vision techniques"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Data Science Essentials",
+      "description": "Learn essential tools and techniques for data analysis",
+      "price": "$45",
+      "by": "Alex Thompson",
+      "rating": 4.6,
+      "category": "Data Science",
+      "enrollment_status": "Open",
+      "course_duration": "10 weeks",
+      "schedule": "Every Tuesday and Thursday, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": "Basic knowledge of Python and statistics",
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Data Science",
+          "content": "Get introduced to the field of data science"
+        },
+        {
+          "week": 2,
+          "topic": "Data Wrangling",
+          "content": "Learn techniques for data wrangling"
+        },
+        {
+          "week": 3,
+          "topic": "Data Visualization",
+          "content": "Explore data visualization methods"
+        },
+        {
+          "week": 4,
+          "topic": "Machine Learning Basics",
+          "content": "Understand the basics of machine learning"
+        },
+        {
+          "week": 5,
+          "topic": "Model Evaluation",
+          "content": "Learn methods for evaluating machine learning models"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Advanced JavaScript Concepts",
+      "description": "Dive deeper into JavaScript with advanced topics and techniques",
+      "price": "$55",
+      "by": "Sarah Johnson",
+      "rating": 4.9,
+      "category": "Web Development",
+      "enrollment_status": "Open",
+      "course_duration": "6 weeks",
+      "schedule": "Every Monday and Wednesday, 7:00 PM - 9:00 PM",
+      "location": "Online",
+      "prerequisites": "Intermediate knowledge of JavaScript",
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Advanced DOM Manipulation",
+          "content": "Explore advanced techniques for DOM manipulation"
+        },
+        {
+          "week": 2,
+          "topic": "Asynchronous JavaScript",
+          "content": "Learn asynchronous programming in JavaScript"
+        },
+        {
+          "week": 3,
+          "topic": "ES6+",
+          "content": "Understand new features introduced in ECMAScript 6"
+        },
+        {
+          "week": 4,
+          "topic": "Design Patterns",
+          "content": "Explore various design patterns in JavaScript"
+        },
+        {
+          "week": 5,
+          "topic": "Functional Programming",
+          "content": "Learn functional programming concepts in JavaScript"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "iOS App Development",
+      "description": "Create stunning iOS apps from scratch using Swift programming language",
+      "price": "$60",
+      "by": "David Lee",
+      "rating": 4.7,
+      "category": "Mobile Development",
+      "enrollment_status": "Open",
+      "course_duration": "8 weeks",
+      "schedule": "Every Wednesday and Friday, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": "Basic knowledge of programming",
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Swift",
+          "content": "Get introduced to the Swift programming language"
+        },
+        {
+          "week": 2,
+          "topic": "iOS User Interface Design",
+          "content": "Learn about designing user interfaces for iOS apps"
+        },
+        {
+          "week": 3,
+          "topic": "Data Persistence",
+          "content": "Explore methods for data persistence in iOS"
+        },
+        {
+          "week": 4,
+          "topic": "Networking",
+          "content": "Understand networking concepts in iOS development"
+        },
+        {
+          "week": 5,
+          "topic": "App Deployment",
+          "content": "Learn about deploying iOS apps to the App Store"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Game Development Fundamentals",
+      "description": "Master the basics of game development with Unity and C#",
+      "price": "$50",
+      "by": "Mark Williams",
+      "rating": 4.6,
+      "category": "Game Development",
+      "enrollment_status": "Open",
+      "course_duration": "8 weeks",
+      "schedule": "Every Tuesday and Thursday, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": "Basic understanding of programming",
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Unity",
+          "content": "Get introduced to the Unity game engine"
+        },
+        {
+          "week": 2,
+          "topic": "Game Mechanics",
+          "content": "Learn about designing game mechanics"
+        },
+        {
+          "week": 3,
+          "topic": "Graphics and Animation",
+          "content": "Explore graphics and animation in game development"
+        },
+        {
+          "week": 4,
+          "topic": "Physics in Games",
+          "content": "Understand the role of physics in game development"
+        },
+        {
+          "week": 5,
+          "topic": "Game Deployment",
+          "content": "Learn about deploying games to various platforms"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Responsive Web Design",
+      "description": "Design websites that work seamlessly across all devices and screen sizes",
+      "price": "$40",
+      "by": "Jessica Garcia",
+      "rating": 4.8,
+      "category": "Web Development",
+      "enrollment_status": "Open",
+      "course_duration": "6 weeks",
+      "schedule": "Every Monday and Wednesday, 7:00 PM - 9:00 PM",
+      "location": "Online",
+      "prerequisites": "Basic knowledge of HTML, CSS, and JavaScript",
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Media Queries",
+          "content": "Learn about media queries for responsive web design"
+        },
+        {
+          "week": 2,
+          "topic": "Flexbox and Grid Layout",
+          "content": "Explore Flexbox and Grid Layout for responsive design"
+        },
+        {
+          "week": 3,
+          "topic": "Responsive Images",
+          "content": "Understand techniques for responsive image handling"
+        },
+        {
+          "week": 4,
+          "topic": "Mobile-First Design",
+          "content": "Learn about mobile-first design approach"
+        },
+        {
+          "week": 5,
+          "topic": "Cross-Browser Compatibility",
+          "content": "Understand cross-browser compatibility issues and solutions"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Cybersecurity Essentials",
+      "description": "Learn fundamental concepts and practices to secure digital systems",
+      "price": "$65",
+      "by": "Daniel Smith",
+      "rating": 4.5,
+      "category": "Cybersecurity",
+      "enrollment_status": "Open",
+      "course_duration": "8 weeks",
+      "schedule": "Every Tuesday and Thursday, 8:00 PM - 10:00 PM",
+      "location": "Online",
+      "prerequisites": "Basic understanding of computer networks",
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Cybersecurity",
+          "content": "Get introduced to the field of cybersecurity"
+        },
+        {
+          "week": 2,
+          "topic": "Network Security",
+          "content": "Learn about network security principles and techniques"
+        },
+        {
+          "week": 3,
+          "topic": "Cryptography",
+          "content": "Understand cryptographic techniques and algorithms"
+        },
+        {
+          "week": 4,
+          "topic": "Secure Software Development",
+          "content": "Explore secure software development practices"
+        },
+        {
+          "week": 5,
+          "topic": "Incident Response",
+          "content": "Learn about incident response procedures"
         }
       ]
     }
