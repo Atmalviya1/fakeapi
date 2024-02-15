@@ -6,7 +6,8 @@
       "description": "A comprehensive guide to building websites from scratch",
       "price": 25,
       "by": "John Doe",
-      "rating": 4.5
+      "rating": 4.5,
+      "category": "Web Development"
     },
     {
       "id": "2",
@@ -14,7 +15,8 @@
       "description": "Unlock the full potential of Python programming language",
       "price": 40,
       "by": "Jane Smith",
-      "rating": 4.8
+      "rating": 4.8,
+      "category": "Programming"
     },
     {
       "id": "3",
@@ -22,7 +24,8 @@
       "description": "Get started with machine learning concepts and algorithms",
       "price": 50,
       "by": "Michael Johnson",
-      "rating": 4.7
+      "rating": 4.7,
+      "category": "Machine Learning"
     },
     {
       "id": "4",
@@ -30,7 +33,8 @@
       "description": "Understand the basics of AI and its applications",
       "price": 35,
       "by": "Emily Brown",
-      "rating": 4.2
+      "rating": 4.2,
+      "category": "Artificial Intelligence"
     },
     {
       "id": "5",
@@ -38,7 +42,8 @@
       "description": "Learn essential tools and techniques for data analysis",
       "price": 45,
       "by": "Alex Thompson",
-      "rating": 4.6
+      "rating": 4.6,
+      "category": "Data Science"
     },
     {
       "id": "6",
@@ -46,7 +51,8 @@
       "description": "Dive deeper into JavaScript with advanced topics and techniques",
       "price": 55,
       "by": "Sarah Johnson",
-      "rating": 4.9
+      "rating": 4.9,
+      "category": "Web Development"
     },
     {
       "id": "7",
@@ -54,7 +60,8 @@
       "description": "Create stunning iOS apps from scratch using Swift programming language",
       "price": 60,
       "by": "David Lee",
-      "rating": 4.7
+      "rating": 4.7,
+      "category": "Mobile Development"
     },
     {
       "id": "8",
@@ -62,7 +69,8 @@
       "description": "Master the basics of game development with Unity and C#",
       "price": 50,
       "by": "Mark Williams",
-      "rating": 4.6
+      "rating": 4.6,
+      "category": "Game Development"
     },
     {
       "id": "9",
@@ -70,7 +78,8 @@
       "description": "Design websites that work seamlessly across all devices and screen sizes",
       "price": 40,
       "by": "Jessica Garcia",
-      "rating": 4.8
+      "rating": 4.8,
+      "category": "Web Development"
     },
     {
       "id": "10",
@@ -78,7 +87,8 @@
       "description": "Learn fundamental concepts and practices to secure digital systems",
       "price": 65,
       "by": "Daniel Smith",
-      "rating": 4.5
+      "rating": 4.5,
+      "category": "Cybersecurity"
     },
     {
       "id": "11",
@@ -86,7 +96,8 @@
       "description": "Explore the basics of blockchain technology and its applications",
       "price": 55,
       "by": "Laura Martinez",
-      "rating": 4.3
+      "rating": 4.3,
+      "category": "Blockchain"
     },
     {
       "id": "12",
@@ -94,7 +105,8 @@
       "description": "Learn ethical hacking techniques to secure digital assets",
       "price": 70,
       "by": "Kevin Johnson",
-      "rating": 4.9
+      "rating": 4.9,
+      "category": "Cybersecurity"
     },
     {
       "id": "13",
@@ -102,7 +114,8 @@
       "description": "Understand the fundamentals of cloud computing and its services",
       "price": 60,
       "by": "Emma Wilson",
-      "rating": 4.6
+      "rating": 4.6,
+      "category": "Cloud Computing"
     },
     {
       "id": "14",
@@ -110,7 +123,8 @@
       "description": "Design intuitive and visually appealing mobile apps",
       "price": 45,
       "by": "Ryan Cooper",
-      "rating": 4.7
+      "rating": 4.7,
+      "category": "Mobile Development"
     },
     {
       "id": "15",
@@ -118,7 +132,8 @@
       "description": "Create immersive virtual reality experiences using Unity",
       "price": 75,
       "by": "Oliver Thompson",
-      "rating": 4.8
+      "rating": 4.8,
+      "category": "Game Development"
     },
     {
       "id": "16",
@@ -126,7 +141,8 @@
       "description": "Introduction to quantum computing principles and algorithms",
       "price": 80,
       "by": "Sophia Anderson",
-      "rating": 4.9
+      "rating": 4.9,
+      "category": "Quantum Computing"
     },
     {
       "id": "17",
@@ -134,7 +150,8 @@
       "description": "Explore the Internet of Things (IoT) concepts and applications",
       "price": 55,
       "by": "Ethan Brown",
-      "rating": 4.6
+      "rating": 4.6,
+      "category": "Internet of Things"
     },
     {
       "id": "18",
@@ -142,7 +159,8 @@
       "description": "Learn techniques for processing and analyzing natural language data",
       "price": 65,
       "by": "Ava Johnson",
-      "rating": 4.7
+      "rating": 4.7,
+      "category": "Artificial Intelligence"
     },
     {
       "id": "19",
@@ -150,7 +168,8 @@
       "description": "Understand user experience (UX) and user interface (UI) design principles",
       "price": 50,
       "by": "Noah Wilson",
-      "rating": 4.8
+      "rating": 4.8,
+      "category": "Design"
     },
     {
       "id": "20",
@@ -158,7 +177,278 @@
       "description": "Implement agile methodologies for efficient software development",
       "price": 60,
       "by": "Mia Garcia",
-      "rating": 4.5
+      "rating": 4.5,
+      "category": "Software Development"
+    },
+    {
+      "id": "21",
+      "name": "UI/UX Design for Mobile Apps",
+      "description": "Learn design principles specific to mobile app interfaces",
+      "price": 45,
+      "by": "Sophia Adams",
+      "rating": 4.7,
+      "category": "Design"
+    },
+    {
+      "id": "22",
+      "name": "Big Data Analytics",
+      "description": "Analyze large datasets to derive meaningful insights",
+      "price": 70,
+      "by": "William Turner",
+      "rating": 4.6,
+      "category": "Data Science"
+    },
+    {
+      "id": "23",
+      "name": "Full Stack Web Development",
+      "description": "Become proficient in both front-end and back-end web development",
+      "price": 80,
+      "by": "Sophie Roberts",
+      "rating": 4.8,
+      "category": "Web Development"
+    },
+    {
+      "id": "24",
+      "name": "Mobile Game Development",
+      "description": "Create engaging games for mobile platforms using Unity",
+      "price": 65,
+      "by": "Michael Scott",
+      "rating": 4.5,
+      "category": "Game Development"
+    },
+    {
+      "id": "25",
+      "name": "Deep Learning",
+      "description": "Explore advanced neural network techniques for deep learning",
+      "price": 90,
+      "by": "Emma Thompson",
+      "rating": 4.9,
+      "category": "Machine Learning"
+    },
+    {
+      "id": "26",
+      "name": "Cybersecurity Advanced",
+      "description": "Advanced techniques and methodologies in cybersecurity",
+      "price": 80,
+      "by": "Matthew Wilson",
+      "rating": 4.7,
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "27",
+      "name": "Cloud Architecture",
+      "description": "Design and implement scalable cloud solutions",
+      "price": 75,
+      "by": "Nathan Brown",
+      "rating": 4.6,
+      "category": "Cloud Computing"
+    },
+    {
+      "id": "28",
+      "name": "User Interface Design",
+      "description": "Design visually appealing and user-friendly interfaces",
+      "price": 55,
+      "by": "Isabella Garcia",
+      "rating": 4.8,
+      "category": "Design"
+    },
+    {
+      "id": "29",
+      "name": "Frontend Development",
+      "description": "Master the skills required for frontend web development",
+      "price": 50,
+      "by": "Ethan Roberts",
+      "rating": 4.7,
+      "category": "Web Development"
+    },
+    {
+      "id": "30",
+      "name": "Backend Development",
+      "description": "Learn server-side programming and database management",
+      "price": 60,
+      "by": "Lucas Thompson",
+      "rating": 4.6,
+      "category": "Web Development"
+    },
+    {
+      "id": "31",
+      "name": "Game Design Principles",
+      "description": "Understand the fundamentals of game design",
+      "price": 40,
+      "by": "Jacob Johnson",
+      "rating": 4.8,
+      "category": "Game Development"
+    },
+    {
+      "id": "32",
+      "name": "Machine Learning Algorithms",
+      "description": "Study various machine learning algorithms and their implementations",
+      "price": 85,
+      "by": "Sophie Wilson",
+      "rating": 4.7,
+      "category": "Machine Learning"
+    },
+    {
+      "id": "33",
+      "name": "Data Visualization",
+      "description": "Create visual representations of data for better understanding",
+      "price": 55,
+      "by": "Natalie Garcia",
+      "rating": 4.8,
+      "category": "Data Science"
+    },
+    {
+      "id": "34",
+      "name": "Cybersecurity Foundations",
+      "description": "Build a solid foundation in cybersecurity principles and practices",
+      "price": 70,
+      "by": "Daniel Wilson",
+      "rating": 4.6,
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "35",
+      "name": "Cloud Security",
+      "description": "Learn techniques to secure cloud environments and data",
+      "price": 75,
+      "by": "Sophia Garcia",
+      "rating": 4.5,
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "36",
+      "name": "UX Research",
+      "description": "Conduct user research to improve user experience",
+      "price": 60,
+      "by": "Ella Thompson",
+      "rating": 4.7,
+      "category": "Design"
+    },
+    {
+      "id": "37",
+      "name": "UI Development",
+      "description": "Create interactive user interfaces with HTML, CSS, and JavaScript",
+      "price": 45,
+      "by": "Sophie Johnson",
+      "rating": 4.8,
+      "category": "Web Development"
+    },
+    {
+      "id": "38",
+      "name": "Game Engine Development",
+      "description": "Develop custom game engines for various platforms",
+      "price": 80,
+      "by": "Lucas Garcia",
+      "rating": 4.9,
+      "category": "Game Development"
+    },
+    {
+      "id": "39",
+      "name": "Machine Learning for Business",
+      "description": "Apply machine learning techniques to solve business problems",
+      "price": 65,
+      "by": "Sophie Brown",
+      "rating": 4.7,
+      "category": "Machine Learning"
+    },
+    {
+      "id": "40",
+      "name": "Data Engineering",
+      "description": "Build data pipelines and manage large-scale data systems",
+      "price": 70,
+      "by": "Nathan Johnson",
+      "rating": 4.6,
+      "category": "Data Science"
+    },
+    {
+      "id": "41",
+      "name": "Software Architecture",
+      "description": "Design scalable and maintainable software architectures",
+      "price": 75,
+      "by": "Sophia Wilson",
+      "rating": 4.8,
+      "category": "Software Development"
+    },
+    {
+      "id": "42",
+      "name": "UX Design for Mobile Games",
+      "description": "Design intuitive user interfaces for mobile games",
+      "price": 50,
+      "by": "Ella Garcia",
+      "rating": 4.7,
+      "category": "Design"
+    },
+    {
+      "id": "43",
+      "name": "Web Security",
+      "description": "Secure web applications and prevent security threats",
+      "price": 65,
+      "by": "Natalie Thompson",
+      "rating": 4.6,
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "44",
+      "name": "Cloud Management",
+      "description": "Manage cloud infrastructure and resources effectively",
+      "price": 60,
+      "by": "William Garcia",
+      "rating": 4.5,
+      "category": "Cloud Computing"
+    },
+    {
+      "id": "45",
+      "name": "UI/UX Design for Websites",
+      "description": "Create engaging and user-friendly website interfaces",
+      "price": 55,
+      "by": "Lucas Brown",
+      "rating": 4.4,
+      "category": "Design"
+    },
+    {
+      "id": "46",
+      "name": "Game Asset Creation",
+      "description": "Design and create assets for game development projects",
+      "price": 65,
+      "by": "Emma Garcia",
+      "rating": 4.3,
+      "category": "Game Development"
+    },
+    {
+      "id": "47",
+      "name": "Machine Learning Applications",
+      "description": "Explore real-world applications of machine learning algorithms",
+      "price": 80,
+      "by": "Sophia Johnson",
+      "rating": 4.5,
+      "category": "Machine Learning"
+    },
+    {
+      "id": "48",
+      "name": "Data Warehousing",
+      "description": "Design and manage data warehouses for efficient data storage and retrieval",
+      "price": 70,
+      "by": "Oliver Garcia",
+      "rating": 4.6,
+      "category": "Data Science"
+    },
+    {
+      "id": "49",
+      "name": "Software Testing",
+      "description": "Master the techniques and methodologies of software testing",
+      "price": 55,
+      "by": "Ethan Wilson",
+      "rating": 4.7,
+      "category": "Software Development"
+    },
+    {
+      "id": "50",
+      "name": "UI Design for E-commerce",
+      "description": "Design intuitive and effective user interfaces for e-commerce platforms",
+      "price": 60,
+      "by": "Sophie Garcia",
+      "rating": 4.8,
+      "category": "Design"
     }
   ]
 }
