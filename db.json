@@ -269,6 +269,186 @@
       "by": "Lucas Thompson",
       "rating": 4.6,
       "category": "Web Development"
+    },
+    {
+      "id": "31",
+      "name": "Game Design Principles",
+      "description": "Understand the fundamentals of game design",
+      "price": 40,
+      "by": "Jacob Johnson",
+      "rating": 4.8,
+      "category": "Game Development"
+    },
+    {
+      "id": "32",
+      "name": "Machine Learning Algorithms",
+      "description": "Study various machine learning algorithms and their implementations",
+      "price": 85,
+      "by": "Sophie Wilson",
+      "rating": 4.7,
+      "category": "Machine Learning"
+    },
+    {
+      "id": "33",
+      "name": "Data Visualization",
+      "description": "Create visual representations of data for better understanding",
+      "price": 55,
+      "by": "Natalie Garcia",
+      "rating": 4.8,
+      "category": "Data Science"
+    },
+    {
+      "id": "34",
+      "name": "Cybersecurity Foundations",
+      "description": "Build a solid foundation in cybersecurity principles and practices",
+      "price": 70,
+      "by": "Daniel Wilson",
+      "rating": 4.6,
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "35",
+      "name": "Cloud Security",
+      "description": "Learn techniques to secure cloud environments and data",
+      "price": 75,
+      "by": "Sophia Garcia",
+      "rating": 4.5,
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "36",
+      "name": "UX Research",
+      "description": "Conduct user research to improve user experience",
+      "price": 60,
+      "by": "Ella Thompson",
+      "rating": 4.7,
+      "category": "Design"
+    },
+    {
+      "id": "37",
+      "name": "UI Development",
+      "description": "Create interactive user interfaces with HTML, CSS, and JavaScript",
+      "price": 45,
+      "by": "Sophie Johnson",
+      "rating": 4.8,
+      "category": "Web Development"
+    },
+    {
+      "id": "38",
+      "name": "Game Engine Development",
+      "description": "Develop custom game engines for various platforms",
+      "price": 80,
+      "by": "Lucas Garcia",
+      "rating": 4.9,
+      "category": "Game Development"
+    },
+    {
+      "id": "39",
+      "name": "Machine Learning for Business",
+      "description": "Apply machine learning techniques to solve business problems",
+      "price": 65,
+      "by": "Sophie Brown",
+      "rating": 4.7,
+      "category": "Machine Learning"
+    },
+    {
+      "id": "40",
+      "name": "Data Engineering",
+      "description": "Build data pipelines and manage large-scale data systems",
+      "price": 70,
+      "by": "Nathan Johnson",
+      "rating": 4.6,
+      "category": "Data Science"
+    },
+    {
+      "id": "41",
+      "name": "Software Architecture",
+      "description": "Design scalable and maintainable software architectures",
+      "price": 75,
+      "by": "Sophia Wilson",
+      "rating": 4.8,
+      "category": "Software Development"
+    },
+    {
+      "id": "42",
+      "name": "UX Design for Mobile Games",
+      "description": "Design intuitive user interfaces for mobile games",
+      "price": 50,
+      "by": "Ella Garcia",
+      "rating": 4.7,
+      "category": "Design"
+    },
+    {
+      "id": "43",
+      "name": "Web Security",
+      "description": "Secure web applications and prevent security threats",
+      "price": 65,
+      "by": "Natalie Thompson",
+      "rating": 4.6,
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "44",
+      "name": "Cloud Management",
+      "description": "Manage cloud infrastructure and resources effectively",
+      "price": 60,
+      "by": "William Garcia",
+      "rating": 4.5,
+      "category": "Cloud Computing"
+    },
+    {
+      "id": "45",
+      "name": "UI/UX Design for Websites",
+      "description": "Create engaging and user-friendly website interfaces",
+      "price": 55,
+      "by": "Lucas Brown",
+      "rating": 4.4,
+      "category": "Design"
+    },
+    {
+      "id": "46",
+      "name": "Game Asset Creation",
+      "description": "Design and create assets for game development projects",
+      "price": 65,
+      "by": "Emma Garcia",
+      "rating": 4.3,
+      "category": "Game Development"
+    },
+    {
+      "id": "47",
+      "name": "Machine Learning Applications",
+      "description": "Explore real-world applications of machine learning algorithms",
+      "price": 80,
+      "by": "Sophia Johnson",
+      "rating": 4.5,
+      "category": "Machine Learning"
+    },
+    {
+      "id": "48",
+      "name": "Data Warehousing",
+      "description": "Design and manage data warehouses for efficient data storage and retrieval",
+      "price": 70,
+      "by": "Oliver Garcia",
+      "rating": 4.6,
+      "category": "Data Science"
+    },
+    {
+      "id": "49",
+      "name": "Software Testing",
+      "description": "Master the techniques and methodologies of software testing",
+      "price": 55,
+      "by": "Ethan Wilson",
+      "rating": 4.7,
+      "category": "Software Development"
+    },
+    {
+      "id": "50",
+      "name": "UI Design for E-commerce",
+      "description": "Design intuitive and effective user interfaces for e-commerce platforms",
+      "price": 60,
+      "by": "Sophie Garcia",
+      "rating": 4.8,
+      "category": "Design"
     }
-      ]
+  ]
 }
